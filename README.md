@@ -3,6 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 This project is for learning Angular. 
 
+## Description
+Task Tracker is like a checklist app.
+
 ## Server
 
 Run `npm run server` for a fake server. Server run at `http://localhost:5000/`. Data sample can view at `http://localhost:5000/tasks`.
