@@ -1,0 +1,30 @@
+.task {
+  background: #f4f4f4;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+}
+
+.task:hover {
+  background: #e7e7e7;
+}
+  
+.task.reminder {
+  border-left: 5px solid #d36600;
+}
+
+.delete-btn {
+  color: rgb(160, 160, 160);
+}
+
+.delete-btn:hover {
+  color: red;
+}
+  
+.task h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

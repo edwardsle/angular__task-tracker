@@ -1,0 +1,12 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  color: #4e4e4e;
+  border-bottom: 1px solid #d1d1d1;
+}
+
+.logo {
+  color: #d36600;
+}
